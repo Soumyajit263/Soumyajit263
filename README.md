@@ -1,6 +1,6 @@
 [![MasterHead](https://camo.githubusercontent.com/b2951f02b90641da36d5e8481012e7b300bc6cd42d168393b24a7231af17b1cf/68747470733a2f2f677261642e75776f2e63612f696d672f70726f6772616d732f6d64615f42616e6e65722e6a7067)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Soumyajit</h1>
-<h3 align="center">A Passionate Data Enthusiast from India</h3>
+<h3 align="center">A Passionate Data Enthusiast from Kolkata, India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966"
 
 
